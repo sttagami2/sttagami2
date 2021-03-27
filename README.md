@@ -1,5 +1,14 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sttagami2&count_private=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sttagami2" />
+</a>
+
+<!--
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=sttagami2&count_private=true&theme=dracula)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sttagami2&count_private=true&theme=dracula)
+-->
 <!--
 **sttagami2/sttagami2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
